@@ -1,5 +1,5 @@
 # Site settings
-title: Daktilo
+title: Qinerhu
 description: >
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -12,7 +12,7 @@ author:
   fullname: Motaquillah Maddane
   googleplus: https://www.google.com/+MotaquillahMaddane
   github: kronik3r
-  twitter: electrik_frog
+  #twitter: electrik_frog
   # disqus: your_disqus_forum_shortname
 
 # google_analytics: 'UA-XXXXXXXX-X'
